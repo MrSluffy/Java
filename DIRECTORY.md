@@ -759,6 +759,7 @@
             * [LongDivisionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/LongDivisionTest.java)
             * [LucasSeriesTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/LucasSeriesTest.java)
             * [MatrixRankTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MatrixRankTest.java)
+            * [MatrixUtilTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MatrixUtilTest.java)
             * [MaxValueTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MaxValueTest.java)
             * [MeansTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MeansTest.java)
             * [MedianTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MedianTest.java)
@@ -829,6 +830,7 @@
             * [NextFitTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/NextFitTest.java)
             * [PasswordGenTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/PasswordGenTest.java)
             * [SieveOfEratosthenesTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/SieveOfEratosthenesTest.java)
+            * [StringMatchFiniteAutomataTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/StringMatchFiniteAutomataTest.java)
             * [TestPrintMatrixInSpiralOrder](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/TestPrintMatrixInSpiralOrder.java)
             * [TwoPointersTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/TwoPointersTest.java)
             * [WorstFitCPUTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/WorstFitCPUTest.java)
@@ -855,6 +857,7 @@
           * sorts
             * [BeadSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BeadSortTest.java)
             * [BinaryInsertionSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BinaryInsertionSortTest.java)
+            * [BitonicSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BitonicSortTest.java)
             * [BogoSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BogoSortTest.java)
             * [BubbleSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BubbleSortTest.java)
             * [BucketSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BucketSortTest.java)
